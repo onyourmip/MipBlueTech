@@ -115,7 +115,6 @@
     <Compile Include="Helper\Session.cs" />
     <Compile Include="Helper\UserSession.cs" />
     <Compile Include="Model\Database.cs" />
-    <Compile Include="Model\TimeOffRequest.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
