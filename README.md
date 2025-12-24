@@ -105,7 +105,7 @@ Sistem MBT Digital ID terdiri dari **13 tabel utama**, yaitu:
 ## ERD (Entity Relationship Diagram)
 ![ERD](./docs/erd.png)
 
-> *ERD dapat dibuat secara digital atau digambar manual lalu difoto sesuai ketentuan.*
+>https://github.com/onyourmip/MipBlueTech/blob/master/Flowchart%20MBT%20ID.drawio.pdf
 
 ---
 
