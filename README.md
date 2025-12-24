@@ -82,8 +82,7 @@ Sistem MBT Digital ID terdiri dari **13 tabel utama**, yaitu:
 8. **leave_requests** – Data pengajuan izin (time-off)  
 9. **overtime_requests** – Data pengajuan lembur  
 10. **holidays** – Data hari libur perusahaan  
-11. **company_settings** – Pengaturan umum perusahaan  
-12. **password_resets** – Token reset password (OTP)
+11. **password_resets** – Token reset password (OTP)
 
 ---
 
